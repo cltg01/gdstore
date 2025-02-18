@@ -6,7 +6,7 @@ img{
 }
 .logo {
     font-family: Arial, sans-serif;
-    font-size: 60px;
+    font-size: 40px;
     font-weight: bold;
     color: white;
     display: flex;
@@ -14,10 +14,10 @@ img{
 }
 
 .logo .icon {
-    font-size: 65px;
-    color: rgb(255, 75, 75);
+    font-size: 45px;
+    color: rgb(255, 255, 255);
     margin: 0 5px;
 }
 .logo span{
-    color: rgb(255, 75, 75);
+    color: rgb(255, 255, 255);
 }
